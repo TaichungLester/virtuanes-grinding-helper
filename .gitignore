@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+build/
+dist/
+*.spec
+*.exe
+*.zip
+_internal/
+.env
+.env.*
+VirtuaNES預設/最近畫面-*.png
+*.nes
+*.sav
+*.st[0-9]
